@@ -46,8 +46,8 @@ This API wrapper provides a comprehensive interface to interact with OpenAI's As
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-repo/openai-assistants-api-wrapper.git
-   cd openai-assistants-api-wrapper
+   git clone https://github.com/RaheesAhmed/openai-assistants-api-v2.git
+   cd openai-assistants-api-v2
    ```
 
 2. Install dependencies:
@@ -55,7 +55,7 @@ This API wrapper provides a comprehensive interface to interact with OpenAI's As
    npm install
    ```
 
-3. Set up environment variables in a `.env` file:
+3. Set up environment variables in a `.env` file and add OPENAI_API_KEY other are not necessary:
    ```
    OPENAI_API_KEY=your_openai_api_key
    PORT=3000
